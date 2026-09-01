@@ -1,0 +1,9 @@
+body{
+    background-color: #3e55a2;
+    font-family: "hiragino maru gothic pro", "ヒラギノ丸ゴ Pro W4", "Hiragino Maru Gothic Pro", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+    padding: 20px;
+}
+
+h1, h2{
+    color:#ffffff;
+}
